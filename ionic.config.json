@@ -1,0 +1,8 @@
+{
+  "name": "photo-gallery",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
